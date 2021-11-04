@@ -32,4 +32,4 @@ Merge
 
 # Contact
 
-GitHub:<https://github.com/kemigabocatherine>
+GitHub:[@GITHUB](https://github.com/kemigabocatherine)
