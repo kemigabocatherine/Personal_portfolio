@@ -2,13 +2,13 @@
 
 This project contains information about me and my projects It shows the work I have taken part in as a developer and my contact information.
 
-# Built With
+## Built With
 
 * HTML
 
 * CSS
 
-# Getting Started
+## Getting Started
 
 Create a new repository and clone it into your IDE
 
@@ -30,6 +30,6 @@ Create a pull request
 
 Merge
 
-# Contact
+## Contact
 
 GitHub:[@GITHUB](https://github.com/kemigabocatherine)
