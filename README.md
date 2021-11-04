@@ -13,9 +13,13 @@ Create a new repository and clone it into your IDE
 Create the different folders and files needed for the project;
 
   HTML and CSS linters file
+
   README.md file
+
   .html file
+
   .css file
+
 Set up your linters and commit to github
 
 Write your code and the styles and commit all the changes to your github account pushing into a feature branch
