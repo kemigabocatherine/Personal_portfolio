@@ -4,8 +4,9 @@ This project contains information about me and my projects It shows the work I h
 
 # Built With
 
-  HTML
-  CSS
+&nbsp * HTML
+
+&nbsp * CSS
 
 # Getting Started
 Create a new repository and clone it into your IDE
