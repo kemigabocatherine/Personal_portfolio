@@ -4,22 +4,23 @@ This project contains information about me and my projects It shows the work I h
 
 # Built With
 
-&nbsp * HTML
+* HTML
 
-&nbsp * CSS
+* CSS
 
 # Getting Started
+
 Create a new repository and clone it into your IDE
 
 Create the different folders and files needed for the project;
 
-  HTML and CSS linters file
+* HTML and CSS linters file
 
-  README.md file
+* README.md file
 
-  .html file
+* .html file
 
-  .css file
+* .css file
 
 Set up your linters and commit to github
 
@@ -31,4 +32,4 @@ Merge
 
 # Contact
 
-GitHub:<https://github.com/kemigabocatherine>@github
+GitHub:<https://github.com/kemigabocatherine>
